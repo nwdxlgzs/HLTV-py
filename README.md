@@ -46,7 +46,7 @@
 ## Installation · 安装
 
 ```bash
-pip install hltv-py
+# 暂不可用pip install hltv-py
 # or from source
 pip install .
 ```
